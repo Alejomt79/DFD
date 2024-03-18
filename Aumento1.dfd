@@ -1,0 +1,108 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+114
+'Una empresa ha decidido, realizar aumentos de salario a sus trabajadores de acuerdo a las siguientes categorías '
+4
+1
+20
+'Ingrese Salario : '
+5
+1
+7
+Salario
+4
+1
+100
+'Ingrese Tipo de Trabajador : 
+Sindicalizado = S
+Confianza = C
+Alto Directivo = A
+Ejecutivo = E'
+5
+1
+7
+Tipo(1)
+7
+1
+1
+12
+Salario <= 0
+4
+1
+16
+'Salario Errado'
+13
+7
+1
+1
+13
+Tipo(1) = 'S'
+6
+1
+7
+Aumento
+16
+(Salario/100)*20
+13
+7
+1
+1
+13
+Tipo(1) = 'C'
+6
+1
+7
+Aumento
+16
+(Salario/100)*10
+13
+7
+1
+1
+13
+Tipo(1) = 'A'
+6
+1
+7
+Aumento
+15
+(Salario/100)*5
+13
+7
+1
+1
+13
+Tipo(1) = 'E'
+6
+1
+7
+Aumento
+15
+(Salario/100)*0
+13
+4
+1
+28
+'Tipo de Contrato no Valido'
+6
+1
+7
+Aumento
+1
+0
+13
+13
+13
+13
+4
+1
+31
+'El aumento es de : ',  Aumento
+13
+1

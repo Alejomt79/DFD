@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+273
+'una persona es apta para prestar el servicio militar obligatorio (presente), cuando: es mayor de 18 años, menor de 25 años, nacionalidad Colombiana y género masculino. Realizar un diagrama que permita determinar si una persona es apta o no par prestar el servicio militar'
+4
+1
+16
+'Digite la Edad'
+5
+1
+4
+Edad
+7
+1
+1
+7
+Edad<18
+4
+1
+12
+'No es Apto'
+13
+7
+1
+1
+7
+Edad>25
+4
+1
+12
+'No es Apto'
+13
+4
+1
+21
+'Digite Nacionalidad'
+5
+1
+16
+Nacionalidad(30)
+7
+0
+1
+31
+Nacionalidad(30) = 'Colombiana'
+4
+1
+12
+'No es Apto'
+13
+4
+1
+46
+'Digite Genero
+M = Masculino
+F = Femenino'
+5
+1
+9
+Genero(1)
+7
+0
+1
+13
+Genero(1)='M'
+4
+1
+12
+'No es Apto'
+13
+4
+1
+37
+'Si es Apto para prestar el servicio'
+13
+13
+13
+13
+1

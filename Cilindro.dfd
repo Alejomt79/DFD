@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+149
+'Elabore un diagrama de flujo que teniendo como datos de entrada el radio y la altura de un cilindro calcule el área total y el volumen del cilindro'
+4
+1
+19
+'Digite El Radio :'
+5
+1
+5
+Radio
+4
+1
+21
+'Digite la Altura : '
+5
+1
+6
+Altura
+7
+1
+1
+9
+Radio <=0
+4
+1
+30
+'El Valor del Radio es Errado'
+13
+7
+1
+1
+11
+Altura <= 0
+4
+1
+33
+'El Valor de la Altura es Errado'
+13
+6
+2
+2
+AT
+31
+2*3.141516*Radio*(Altura+Radio)
+7
+Volumen
+29
+3.141516*(Radio*Radio)*Altura
+4
+1
+51
+'Area Total : ', AT    ----   'Volumen : ', Volumen
+13
+13
+1

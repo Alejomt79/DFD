@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+92
+'Este programa convierte un valor dado en Metros a Centímetros, Kilómetros, Pies y Pulgadas'
+4
+1
+24
+'Ingrese los metros : ' 
+5
+1
+6
+Metros
+7
+1
+1
+8
+Metros<0
+4
+1
+56
+'El valor es negativo y no se puede hacer la conversión'
+13
+6
+3
+2
+CM
+10
+Metros*100
+2
+Km
+11
+Metros/1000
+3
+Pie
+16
+Metros*100/30.48
+6
+1
+2
+Pg
+15
+Metros*100/2.54
+4
+1
+199
+'Centimetros : ', Cm,                                  '
+Kilometros : ', Km,                                           '
+Pies : ', Pie,                                            '
+Pulgada : ', Pg
+13
+1

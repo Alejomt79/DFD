@@ -1,0 +1,19 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+243
+' Una persona recibe un préstamo de un banco por un año y desea saber cuánto pagará de interés al terminar el préstamo si se sabe que el banco le cobra una tasa del 1.8% mensual. Realice un diagrama de flujo que permita determinar este monto' 
+4
+1
+30
+'Digite el monto a prestar : '
+5
+1
+5
+Valor
+1
